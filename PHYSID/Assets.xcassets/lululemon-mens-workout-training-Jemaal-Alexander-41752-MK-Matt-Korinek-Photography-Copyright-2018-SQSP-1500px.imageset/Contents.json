@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "lululemon-mens-workout-training-Jemaal-Alexander-41752-MK-Matt-Korinek-Photography-Copyright-2018-SQSP-1500px.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
